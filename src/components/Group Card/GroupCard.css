@@ -1,0 +1,94 @@
+
+.page{
+    justify-content: center;
+}
+
+.col{
+    padding: 5px;
+    margin: 0px;
+}
+.card{
+    padding: 0;
+    margin: 5px;
+} 
+
+.card-title{
+    font-size: x-large;
+    font-weight: bold;
+    margin: 0;
+}
+.group-status{
+    font-size: small;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.number{
+    font-size: large;
+    font-weight: bold;
+}
+
+.text{
+    font-size: small; 
+}
+
+.members-num{
+    border-right: 1px solid rgba(48, 48, 48, 0.644);
+    height: 40px;
+}
+
+.statistical-info{
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.member-list-img{
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.card-footer{
+    background-color: white;
+}
+
+.join-group{
+    initial-value: Join Group;
+    background-color: #e9f8f3;
+    color: #60c39b;
+    border-radius: 5px;
+    border-style: none;
+    margin: 20px 0;
+    padding: 10px 20px;
+}
+
+.leave-group{
+    initial-value: Join Group;
+    background-color: #fbe8eb;
+    color:#db3375;
+    border-radius: 5px;
+    border-style: none;
+    margin: 20px 0;
+    padding: 10px 20px;
+}
+
+.join-group:hover{
+    initial-value: Join Group;
+    background-color: #60c39b;
+    color:#e9f8f3;
+    border-radius: 5px;
+    border-style: none;
+    margin: 20px 0;
+    padding: 10px 20px;
+}
+
+.leave-group:hover{
+    initial-value: Join Group;
+    background-color: #db3375;
+    color:#fbe8eb;
+    border-radius: 5px;
+    border-style: none;
+    margin: 20px 0;
+    padding: 10px 20px;
+}
